@@ -16,7 +16,7 @@ I am currently the lead developer for two significant projects and most posts wi
 
 ## Contact Me
 
-You can reach me by Email: [jarbasai@mailfence.com](mailto:jarbasai@mailfence.com) or [LinkedIn](https://www.linkedin.com/in/casimiro-ferreira-953783151/)
+You can reach me by Email: [jarbasai@mailfence.com](mailto:jarbasai@mailfence.com) or [Matrix Chat](https://matrix.to/#/@jarbasai:matrix.org)
 
 Thank you for considering supporting my work!
 
