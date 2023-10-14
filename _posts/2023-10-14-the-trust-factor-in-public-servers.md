@@ -1,4 +1,4 @@
-# The Trust Factor in Public Servers 
+# The Trust Factor in Public Servers
 
 In an age where digital communication and technology are at the forefront of human interaction, services that offer Speech-to-Text (STT), Text-to-Speech (TTS), and translation capabilities have become increasingly important. Many providers offer public servers for these services, making them easily accessible to a wide range of users. However, with this accessibility comes a crucial issue – the trust factor.
 
