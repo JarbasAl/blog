@@ -22,10 +22,11 @@ The promises made by public server providers primarily focus on addressing accid
 
 Encryption plays a crucial role in safeguarding user data and mitigating the risk of accidental logging on public servers. 
 By encrypting sensitive data, such as the translated phrases or TTS utterances, it ensures that even if logs are inadvertently saved or accessed, the information remains secure and indecipherable to unauthorized personnel. 
+
 In this context, I'm committed to enhancing user trust and data security under OVOS public servers. 
 The measures taken, such as setting the log level to ERROR and adding encryption (TODO!!!) to non-configurable properties in the TTS and translation server plugins, address the issue of accidental logging.  
-With these measures in place, OVOS strives to provide users with a reliable and privacy-conscious solution for their STT, TTS, and translation needs, ensuring that user data remains confidential and secure, even in the face of accidental logging risks.
 
+With these measures in place, OVOS strives to provide users with a reliable and privacy-conscious solution for their STT, TTS, and translation needs, ensuring that user data remains confidential and secure, even in the face of accidental logging risks.
 While these measures can prevent accidental logging, they have minimal impact on the trust factor. This is because they don't address the core issue – the inherent need for the server to access and process user data.
 
 ## The Trust Gap
