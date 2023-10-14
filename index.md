@@ -1,4 +1,4 @@
-# Hello
+# Home
 
 I'm Miro, this is my blog and I write about the things I create
 
