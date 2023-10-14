@@ -14,7 +14,8 @@ When users engage with public servers for STT, TTS, and translation, they encoun
 4. We promise we don't decrypt your data.
 5. We promise the code we run is the same one on GitHub.
 
-However, there is an inherent challenge with these promises. While they may be well-intentioned, they often fall short in guaranteeing the trustworthiness of the service. Let's delve into the reasons why.
+However, there is an inherent challenge with these promises. 
+While they may be well-intentioned, they often fall short in guaranteeing the trustworthiness of the service. Let's delve into the reasons why.
 
 ## The Challenge of Accidental Logging
 
@@ -31,7 +32,10 @@ While these measures can prevent accidental logging, they have minimal impact on
 
 ## The Trust Gap
 
-Public servers require access to the data being processed, whether it's audio for STT or text for TTS and translation. While providers can promise not to misuse this data, there's an unavoidable gap in trust. Users have no practical means to verify what happens to their data once it's on the server. The data is sent there, and users must trust that it will only be used for processing and that the promises will be upheld.
+Public servers require access to the data being processed, whether it's audio for STT or text for TTS and translation. 
+While providers can promise not to misuse this data, there's an unavoidable gap in trust. 
+Users have no practical means to verify what happens to their data once it's on the server. 
+The data is sent there, and users must trust that it will only be used for processing and that the promises will be upheld.
 
 Potential Compromises
 
@@ -55,4 +59,7 @@ Beyond the promises, there are several ways that an untrustworthy or "evil" serv
 
 ## Conclusion
 
-These additional concerns highlight the importance of due diligence when selecting public servers for STT, TTS, and translation services. Users should be cautious and consider the potential risks associated with trusting their data to any public server, even if they claim to uphold strong privacy and security standards. Trust, in the end, should be earned through transparency and a proven track record of safeguarding user data. In an age where data privacy and security are paramount, users must remain vigilant and prioritize trustworthiness when engaging with public servers for these critical services.
+These concerns highlight the importance of due diligence when selecting public servers for STT, TTS, and translation services. 
+Users should be cautious and consider the potential risks associated with trusting their data to any public server, even if they claim to uphold strong privacy and security standards. 
+Trust, in the end, should be earned through transparency and a proven track record of safeguarding user data. 
+In an age where data privacy and security are paramount, users must remain vigilant and prioritize trustworthiness when engaging with public servers for these critical services.
