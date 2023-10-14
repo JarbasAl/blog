@@ -7,8 +7,8 @@ My journey has taken me across different countries and roles, and I have a stron
 
 I am currently the lead developer for two significant projects and most posts will be related to these:
 
-- [OpenVoiceOS](https://openvoiceos.org/) - Leading development efforts for OpenVoiceOS, a non-profit organization creating frameworks for voice-enabling various applications and devices. This project aims to empower voice technology and make it accessible to everyone.
-- [HiveMind](https://github.com/JarbasHiveMind/)- Serving as the lead developer for HiveMind, a protocol designed to connect multiple voice assistants and enable seamless collaboration between them. HiveMind represents the future of voice technology interconnectivity.
+- [OpenVoiceOS](https://openvoiceos.org/) - A non-profit organization creating frameworks for voice-enabling various applications and devices. This project aims to empower voice technology and make it accessible to everyone.
+- [HiveMind](https://github.com/JarbasHiveMind/)- A protocol designed to connect multiple voice assistants and enable seamless collaboration between them. HiveMind represents the future of voice technology interconnectivity.
 
 **DISCLAIMER**: this blog represents my own views only, it should not be misconstrued as representative of OpenVoiceOS stance
 
