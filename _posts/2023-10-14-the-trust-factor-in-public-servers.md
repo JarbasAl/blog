@@ -1,12 +1,16 @@
 # The Trust Factor in Public Servers
 
-In an age where digital communication and technology are at the forefront of human interaction, services that offer Speech-to-Text (STT), Text-to-Speech (TTS), and translation capabilities have become increasingly important. Many providers offer public servers for these services, making them easily accessible to a wide range of users. However, with this accessibility comes a crucial issue – the trust factor.
+In an age where digital communication and technology are at the forefront of human interaction, services that offer Speech-to-Text (STT), Text-to-Speech (TTS), and translation capabilities have become increasingly important. 
+Many providers offer public servers for these services, making them easily accessible to a wide range of users. 
+However, with this accessibility comes a crucial issue – the trust factor.
 
-Trust is paramount when dealing with sensitive data, especially in the context of public servers. Users must believe that their information is handled with the utmost care and privacy. In this blog post, we will explore the challenges and concerns surrounding the trust factor in public servers for STT, TTS, and translation, along with potential ways that untrustworthy servers could compromise user data.
+Trust is paramount when dealing with sensitive data, especially in the context of public servers. Users must believe that their information is handled with the utmost care and privacy. 
+In this blog post, we will explore the challenges and concerns surrounding the trust factor in public servers for [STT](https://github.com/OpenVoiceOS/ovos-stt-http-server), [TTS](https://github.com/OpenVoiceOS/ovos-tts-server), and [Translation](https://github.com/OpenVoiceOS/ovos-translate-server), along with potential ways that untrustworthy servers could compromise user data.
 
 ## Promises and Their Limits
 
-When users engage with public servers for STT, TTS, and translation, they encounter a series of promises made by the service providers. These promises are designed to assure users that their data is secure and their privacy is respected. Some common promises include:
+When users engage with public servers for [STT](https://github.com/OpenVoiceOS/ovos-stt-http-server), [TTS](https://github.com/OpenVoiceOS/ovos-tts-server), and [Translation](https://github.com/OpenVoiceOS/ovos-translate-server), they encounter a series of promises made by the service providers. 
+These promises are designed to assure users that their data is secure and their privacy is respected. Some common promises include:
 
 1. We promise we don't look at logs.
 2. We promise we don't save logs.
@@ -45,7 +49,7 @@ Beyond the promises, there are several ways that an untrustworthy or "evil" serv
 
 2. Data Resale: An unscrupulous server could secretly collect and store user data, then potentially sell it to third parties, violating the promise of not saving or sharing user data. This would be a clear breach of trust and privacy.
 
-3. Intercepting Unencrypted Data: Even if data is transmitted securely to the server, an evil server may intercept and store dencrypted data before it is processed, despite the promise of data encryption.
+3. Intercepting Unencrypted Data: Even if data is transmitted securely to the server, an evil server may intercept and store decrypted data before it is processed, despite the promise of data encryption.
 
 4. Persistent Logging: Some servers may explicitly save logs despite claiming not to do so. These logs could contain sensitive user information that was supposed to be discarded, putting user privacy at risk.
 
@@ -59,7 +63,7 @@ Beyond the promises, there are several ways that an untrustworthy or "evil" serv
 
 ## Conclusion
 
-These concerns highlight the importance of due diligence when selecting public servers for STT, TTS, and translation services. 
+These concerns highlight the importance of due diligence when selecting public servers for [STT](https://github.com/OpenVoiceOS/ovos-stt-http-server), [TTS](https://github.com/OpenVoiceOS/ovos-tts-server), and [Translation](https://github.com/OpenVoiceOS/ovos-translate-server) services. 
 Users should be cautious and consider the potential risks associated with trusting their data to any public server, even if they claim to uphold strong privacy and security standards. 
 Trust, in the end, should be earned through transparency and a proven track record of safeguarding user data. 
 In an age where data privacy and security are paramount, users must remain vigilant and prioritize trustworthiness when engaging with public servers for these critical services.
