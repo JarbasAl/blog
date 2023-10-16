@@ -95,8 +95,8 @@ Together, they enable OVOS to understand and respond in virtually any language, 
 
 ### Key Highlights
 
-- **Utterance Transformer**: Translates incoming text and adjusts the language of the session, ensuring a seamless conversational experience.
-- **Session Language Fix**: This optional feature corrects the session language based on the detected text language, ideal for chat platforms with multilingual users.
+- **Utterance Transformer**: Translates incoming text and adjusts the language of the session temporarily, ensuring a seamless conversational experience.
+- **Language Verification**: This optional feature corrects the session language based on the detected text language, ideal for chat platforms with multilingual users.
 - **Dialog Transformer**: Translates the spoken dialog back to the original session language, enabling OVOS to provide responses in the original language.
 - **Configurable**: The Bidirectional Translation plugin can be customized to fit your specific requirements. You can enable or disable features like session language fixing and more.
 
