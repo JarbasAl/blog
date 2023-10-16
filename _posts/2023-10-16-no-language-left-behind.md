@@ -19,9 +19,9 @@ The STT plugin is crucial for understanding and processing user input, and the i
 The STT plugin must be aware of the language being spoken to provide accurate transcriptions.
 
 I created several plugins that provide this functionality:
-- https://github.com/OpenVoiceOS/ovos-audio-transformer-plugin-speechbrain-langdetect
-- https://github.com/OpenVoiceOS/ovos-audio-transformer-plugin-speechflow-langdetect
-- https://github.com/OpenVoiceOS/ovos-stt-plugin-fasterwhisper
+- [ovos-audio-transformer-plugin-speechbrain-langdetect](https://github.com/OpenVoiceOS/ovos-audio-transformer-plugin-speechbrain-langdetect)
+- [ovos-audio-transformer-plugin-speechflow-langdetect](https://github.com/OpenVoiceOS/ovos-audio-transformer-plugin-speechflow-langdetect)
+- [ovos-stt-plugin-fasterwhisper](https://github.com/OpenVoiceOS/ovos-stt-plugin-fasterwhisper)
 
 NOTE: language detection from audio is constrained to the languages configured in OVOS config, this rejects all classifications for languages you know will never be spoken around your OVOS setup
 
@@ -34,7 +34,9 @@ NOTE: language detection from audio is constrained to the languages configured i
 
 ### Configuration
 
-You can configure the FasterWhisperLangClassifier with different settings and models, depending on your requirements. For example, to use a specific model:
+You can configure the language classifier plugins with different settings and models, depending on your requirements. 
+
+For example, to use a specific model in FasterWhisperLangClassifier:
 
 ```json
 "listener": {
@@ -70,8 +72,8 @@ A remote version of this plugin also exists to allow usage of this functionality
 - **Easy Configuration**: Setting up the plugin is straightforward, allowing OVOS developers to integrate it seamlessly.
 
 Translation plugins of note:
-- https://github.com/OpenVoiceOS/ovos-translate-plugin-nllb
-- https://github.com/OpenVoiceOS/ovos-translate-server-plugin
+- [ovos-translate-plugin-nllb](https://github.com/OpenVoiceOS/ovos-translate-plugin-nllb)
+- [ovos-translate-server-plugin](https://github.com/OpenVoiceOS/ovos-translate-server-plugin)
 
 ### Configuration
 
