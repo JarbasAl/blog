@@ -133,4 +133,4 @@ Beyond software, I see a vibrant community forming around our shared passion for
 With the introduction of these new language plugins and the capability for language detection from audio, I'm driven by a strong commitment to inclusivity and linguistic diversity.
 
 I extend a warm invitation to developers and language enthusiasts from around the world to join me in this mission. 
-Whether your goal is to contribute to language support, develop your skills, or explore new features, I wholeheartedly welcome you to join me in pursuing a world where no language is left behind.
+Whether your goal is to contribute to language support, translate skills, or explore new features, I wholeheartedly welcome you to join me in pursuing a world where no language is left behind.
