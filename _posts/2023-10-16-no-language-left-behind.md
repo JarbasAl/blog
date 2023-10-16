@@ -18,12 +18,19 @@ OVOS uses a Speech-to-Text (STT) plugin to convert spoken language into text.
 The STT plugin is crucial for understanding and processing user input, and the information from language detection plays a significant role in this process. 
 The STT plugin must be aware of the language being spoken to provide accurate transcriptions.
 
-We currently have several plugins in testing stage to provide this functionality:
+I created several plugins that provide this functionality:
 - https://github.com/OpenVoiceOS/ovos-audio-transformer-plugin-speechbrain-langdetect
 - https://github.com/OpenVoiceOS/ovos-audio-transformer-plugin-speechflow-langdetect
 - https://github.com/OpenVoiceOS/ovos-stt-plugin-fasterwhisper
 
 NOTE: language detection from audio is constrained to the languages configured in OVOS config, this rejects all classifications for languages you know will never be spoken around your OVOS setup
+
+```json
+{
+  "lang": "en-us",
+  "secondary_langs": ["pt-pt", "fr-fr"]
+}
+```
 
 ### Configuration
 
