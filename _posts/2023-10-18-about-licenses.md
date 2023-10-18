@@ -21,7 +21,7 @@ Different licenses delineate rights and permissions differently, and there are a
 Some of those licenses are more permissive than others.
 What this means is that, while all provide in some way for open source software, they vary in the amount of protection they offer, the obligations they place on other developers who use the code, and how attribution should be handled. 
 
-OpenVoiceOS has chosen, as standard practice, to license our software under the more permissive [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0) or the extremely permissive MIT license. 
+OpenVoiceOS has chosen, as [standard practice](https://openvoiceos.github.io/community-docs/license/), to license our software under the more permissive [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0) or the extremely permissive MIT license. 
 We also make occasional use of the BSD license family. Permissive licenses allow users to modify and distribute the software with minimal restrictions. 
 
 This approach contrasts with copyleft licenses, which require that any modifications or derivative works be released under similar terms. 
@@ -35,7 +35,7 @@ OpenVoiceOS has chosen permissive licenses for a number of reasons, among which 
 In our case, the team wanted to encourage widespread adoption and use of their software, without imposing significant restrictions on developers and businesses. 
 While few copyleft licenses prohibit commercial activity, the obligation to pay code forward can be limiting in practice, and while the severity of this problem depends on the nature of the software, it's enough to deter many business-minded developers. 
 
-**We don't want to deter anybody.**
+**I don't want to deter anybody.**
 
 Another factor that influenced the decision to avoid the GPL, a copyleft license, was the complexity of its terms and conditions. 
 GPL is a legal document that is widely interpreted, and its requirements can be difficult to navigate for non-experts. 
@@ -62,9 +62,9 @@ In addition, contributions made by those developers can more easily be integrate
 
 All together, this creates a symbiotic relationship that enhances the development process for everyone. 
 
-Open Voice OS is meant to be a project for everyone, by everyone. 
+OpenVoiceOS is meant to be a project for everyone, by everyone. 
 We have worked to ensure this is the standard from top to bottom, and will continue that mission as we grow and change. 
 
-A strong community is foundational to a healthy open source project, so we encourage you to get involved. 
+A strong community is foundational to a healthy open source project, so I encourage you to get involved. 
 
 Come chat with us on our [Matrix channels](https://matrix.to/#/!XFpdtmgyCoPDxOMPpH:matrix.org?via=matrix.org), and check out our [GitHub page](https://github.com/OpenVoiceOS)!
