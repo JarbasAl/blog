@@ -25,8 +25,10 @@ While they may be well-intentioned, they often fall short in guaranteeing the tr
 
 The promises made by public server providers primarily focus on addressing accidental logging. Accidental logging occurs when sensitive user data is stored in server logs, either intentionally or unintentionally.
 
-Encryption plays a crucial role in safeguarding user data and mitigating the risk of accidental logging on public servers. 
-By encrypting sensitive data, such as the translated phrases or TTS utterances, it ensures that even if logs are inadvertently saved or accessed, the information remains secure and indecipherable to unauthorized personnel. 
+Encryption plays a crucial role in safeguarding user data and mitigating the risk of using public servers. 
+By encrypting sensitive data, such as user utterances, it ensures that even if logs are inadvertently saved or accessed, the information remains secure and indecipherable to unauthorized personnel. 
+
+Unfortunately encryption is not magic, the **servers need to decrypt the data to process it**, that means a server at some point has the unencrypted data and can do whatever it wants with it
 
 In this context, I'm committed to enhancing user trust and data security under OVOS public servers. 
 The measures taken, such as setting the log level to ERROR and adding obfuscation (NOT ENCRYPTION *) to non-configurable properties in the TTS and translation server plugins, address the issue of accidental logging.  
