@@ -43,7 +43,8 @@ By choosing simpler and more permissive licenses, OpenVoiceOS aimed to make it e
 
 A related license, also avoided here, is the LGPL. It has been popular for libraries, or code that helps other code. 
 In lay terms, it was designed so that you could write a program *using* the licensed code as if it were permissively licensed; if you decided to *change* the licensed code, the changed code, and only that code, remains copyleft. 
-Our problem with the LGPL is simply that it uses terminology specific to the wrong technology. If we were a C/C++ shop, it might be a valuable tool in our arsenal, but as a mostly Python shop, [we aren't sure its language applies to us](https://softwareengineering.stackexchange.com/questions/119436/what-does-gpl-with-classpath-exception-mean-in-practice/326325#326325).
+My problem with the LGPL is simply that it uses terminology specific to the wrong technology. 
+If we were a C/C++ shop, it might be a valuable tool in our arsenal, but as a mostly Python shop, [we aren't sure its language applies to us](https://softwareengineering.stackexchange.com/questions/119436/what-does-gpl-with-classpath-exception-mean-in-practice/326325#326325).
 
 One of the problems with non-permissive licenses is that when a company cannot fully control how they share their code, they either do not use the software, or instead try hard to "hijack" the project by political maneuvering. 
 Permissive licenses, such as the BSD or MIT licenses, allow the company to do whatever they want, and it does not become a part of their interest to hijack the upstream project or directly influence the way it is going. 
